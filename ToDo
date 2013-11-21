@@ -1,0 +1,9 @@
+Problems with V1:
+
+- Terminal block pin width? - Leave at metric
+- One-shot Vdd should be Arduino_voltage
+- RTC VCC should be arduino_voltage
+- Reset circuit only works when 5 volt is on
+
+- Add signal for USB4000 trigger
+- Changed battery voltage dividers
