@@ -1,10 +1,12 @@
 Now working on v2.
 Problems with V1:
 
-- Terminal block pin width? - Leave at metric
-- One-shot Vdd should be Arduino_voltage
-- RTC VCC should be arduino_voltage
-- Reset circuit only works when 5 volt is on
-
-- Add signal for USB4000 trigger
-- Changed battery voltage dividers
+1. Terminal block pin width? - Leave at metric
+2. One-shot Vdd should be Arduino_voltage 
+3. RTC VCC should be arduino_voltage 
+4. Reset circuit only works when 5 volt is on
+5. Add signal for USB4000 trigger
+6. Changed battery voltage dividers
+7. Double check reset button
+8. Replace Sparfun RTC with RTC and battery on PCB
+9. Label test points
