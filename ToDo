@@ -8,5 +8,8 @@ Problems with V1:
 5. Add signal for USB4000 trigger
 6. Changed battery voltage dividers
 7. Double check reset button
-8. Replace Sparfun RTC with RTC and battery on PCB
+XXXXX8. Replace Sparfun RTC with RTC and battery on PCB
 9. Label test points
+10. Replace Non-Hand-Solderable Parts
+	-SD Card holder
+	-RS232 Chip 
