@@ -1,12 +1,11 @@
-Arduino works - Yes
-Turns on 5 Volt - Yes
-Turns on RGB LEDs - Yes
-Auto-resets - Yes - only when 5V is on
+Arduino works - 
+Turns on 5 Volt - 
+Turns on RGB LEDs - 
+Auto-resets - 
 Battery charges - 
-Writes to SD card - Yes
+Writes to SD card - 
 Communicates with USB4000 - 
-Communicates with RTC - Yes
-Wakes up on RTC alarm - Yes
+Communicates with RTC - 
+Wakes up on RTC alarm - 
 Turns on absorbance lamp - 
-Communicates with fluorescence LEDs - Yes 
-
+Communicates with fluorescence LEDs - 

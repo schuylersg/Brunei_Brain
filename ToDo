@@ -1,15 +1,18 @@
 Now working on v2.
 Problems with V1:
 
-1. Terminal block pin width? - Leave at metric
-2. One-shot Vdd should be Arduino_voltage 
-3. RTC VCC should be arduino_voltage 
-4. Reset circuit only works when 5 volt is on
-5. Add signal for USB4000 trigger
-6. Changed battery voltage dividers
-7. Double check reset button
+XXXXX1. Terminal block pin width? - Leave at metric
+XXXXX2. One-shot Vdd should be Arduino_voltage 
+XXXXX3. RTC VCC should be arduino_voltage 
+XXXXX4. Reset circuit only works when 5 volt is on
+	-Changed to Arduino_V  
+XXXXX5. Add signal for USB4000 trigger
+	- Now triggered off of IO2
+XXXXX6. Changed battery voltage dividers
+XXXXX7. Double check reset button
 XXXXX8. Replace Sparfun RTC with RTC and battery on PCB
-9. Label test points
-10. Replace Non-Hand-Solderable Parts
-	-SD Card holder
-	-RS232 Chip 
+XXXXX9. Label test points
+XXXXX10. Replace Non-Hand-Solderable Parts
+XXXXX	-SD Card holder
+XXXXX	-RS232 Chip
+11. Add RX/TX pins
