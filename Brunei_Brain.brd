@@ -3341,10 +3341,14 @@ design rules under a new name.</description>
 <element name="R6" library="SparkFun-Passives" package="0603-RES" value="1k" x="83.058" y="38.862" smashed="yes">
 <attribute name="NAME" x="83.058" y="40.132" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="83.058" y="37.846" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="83.058" y="38.862" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="1276-5062-1-ND" x="83.058" y="38.862" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R5" library="SparkFun-Passives" package="0603-RES" value="1k" x="83.058" y="17.018" smashed="yes">
 <attribute name="NAME" x="83.058" y="18.288" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="83.058" y="16.002" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="83.058" y="17.018" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="1276-5062-1-ND" x="83.058" y="17.018" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R10" library="SparkFun-Passives" package="0603-RES" value="DNP" x="53.848" y="13.462" smashed="yes" rot="R270">
 <attribute name="NAME" x="52.07" y="14.986" size="0.6096" layer="25" font="vector" align="center"/>
@@ -3417,6 +3421,8 @@ design rules under a new name.</description>
 <element name="U9" library="SmartPrj" package="DIL28-3" value="ATMEGA328P-PU" x="26.289" y="30.48" smashed="yes">
 <attribute name="NAME" x="7.366" y="26.6446" size="1.016" layer="25" font="vector" ratio="10" rot="R180" align="center"/>
 <attribute name="VALUE" x="10.414" y="29.845" size="1.778" layer="27" ratio="10"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="26.289" y="30.48" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="ATMEGA328P-PN-ND" x="26.289" y="30.48" size="1.778" layer="27" display="off"/>
 </element>
 <element name="ICSP" library="SmartPrj" package="2X03" value="3x2 M" x="38.18" y="43.54" smashed="yes" rot="R270">
 <attribute name="NAME" x="37.994" y="37.799" size="1.27" layer="25" ratio="10"/>
@@ -3429,6 +3435,8 @@ design rules under a new name.</description>
 </element>
 <element name="RESET" library="SmartPrj" package="TS42" value="TS42031-160R-TR-7260" x="14.605" y="3.556" smashed="yes" rot="R180">
 <attribute name="NAME" x="26.749" y="2.722" size="1.27" layer="21" rot="R180"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="14.605" y="3.556" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PARTNUMBER" value="450-1759-1-ND" x="14.605" y="3.556" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="Y1" library="SmartPrj" package="RESONATOR" value="CSTCE16M0V53-R0 16MHZ" x="31.496" y="20.066" smashed="yes" rot="R180">
 <attribute name="PARTNUMBER" value="490-1198-1-ND" x="31.496" y="20.066" size="1.778" layer="27" rot="R180" display="off"/>
@@ -3448,6 +3456,8 @@ design rules under a new name.</description>
 <element name="R7" library="SparkFun-Passives" package="0603-RES" value="20k" x="56.896" y="57.404" smashed="yes">
 <attribute name="NAME" x="56.896" y="58.674" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="56.896" y="56.388" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="56.896" y="57.404" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="1276-4768-1-ND" x="56.896" y="57.404" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C10" library="resistor" package="C0603" value="4.7uF" x="62.484" y="62.484" smashed="yes" rot="R180">
 <attribute name="PARTNUMBER" value="445-5178-1-ND" x="62.484" y="62.484" size="1.778" layer="27" rot="R180" display="off"/>
@@ -3511,18 +3521,26 @@ design rules under a new name.</description>
 <element name="R22" library="SparkFun-Passives" package="0603-RES" value="10k" x="30.734" y="5.08" smashed="yes">
 <attribute name="NAME" x="30.734" y="6.604" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="30.734" y="4.064" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="30.734" y="5.08" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="311-10.0KHRCT-ND" x="30.734" y="5.08" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R19" library="SparkFun-Passives" package="0603-RES" value="600" x="2.54" y="30.861" smashed="yes">
+<element name="R19" library="SparkFun-Passives" package="0603-RES" value="604" x="2.54" y="30.861" smashed="yes">
 <attribute name="NAME" x="2.54" y="29.591" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="2.54" y="29.845" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="2.54" y="30.861" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="1276-3506-1-ND" x="2.54" y="30.861" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R20" library="SparkFun-Passives" package="0603-RES" value="360" x="2.54" y="42.799" smashed="yes">
 <attribute name="NAME" x="2.54" y="44.069" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="2.54" y="41.783" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="2.54" y="42.799" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="1276-5051-1-ND" x="2.54" y="42.799" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R21" library="SparkFun-Passives" package="0603-RES" value="360" x="3.81" y="40.005" smashed="yes">
 <attribute name="NAME" x="3.81" y="41.275" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="3.81" y="38.989" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="3.81" y="40.005" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="1276-5051-1-ND" x="3.81" y="40.005" size="1.778" layer="27" display="off"/>
 </element>
 <element name="J2" library="Schuyler" package="MICRO-FIT_3.0_2POS_VERT_THROUGH" value="MICRO-FIT_3.0_2POS_VERT_THRU" x="86.868" y="54.864" smashed="yes" rot="R270">
 <attribute name="VERIFIED" value="TRUE" x="86.868" y="54.864" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3540,21 +3558,29 @@ design rules under a new name.</description>
 <attribute name="MANPARTNUMBER" value="0436500215" x="62.23" y="67.818" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="56.134" y="67.818" size="1.016" layer="25" font="vector" align="center"/>
 </element>
-<element name="R1" library="SparkFun-Passives" package="0603-RES" value="4.99M" x="72.644" y="57.404" smashed="yes">
+<element name="R1" library="SparkFun-Passives" package="0603-RES" value="5.1M" x="72.644" y="57.404" smashed="yes">
 <attribute name="NAME" x="72.644" y="56.134" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="72.644" y="56.388" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="72.644" y="57.404" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="541-5.10MHCT-ND" x="72.644" y="57.404" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R2" library="SparkFun-Passives" package="0603-RES" value="100k" x="68.834" y="57.404" smashed="yes">
 <attribute name="NAME" x="68.834" y="56.134" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="68.834" y="56.388" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="68.834" y="57.404" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="1276-3486-1-ND" x="68.834" y="57.404" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R8" library="SparkFun-Passives" package="0603-RES" value="250k" x="8.763" y="43.942" smashed="yes" rot="R180">
+<element name="R8" library="SparkFun-Passives" package="0603-RES" value="249k" x="8.763" y="43.942" smashed="yes" rot="R180">
 <attribute name="NAME" x="8.763" y="42.672" size="0.6096" layer="25" font="vector" rot="R180" align="center"/>
 <attribute name="VALUE" x="8.763" y="44.958" size="0.6096" layer="27" font="vector" rot="R180" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="8.763" y="43.942" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PARTNUMBER" value="311-249KHRCT-ND" x="8.763" y="43.942" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="R9" library="SparkFun-Passives" package="0603-RES" value="75k" x="8.763" y="40.894" smashed="yes">
 <attribute name="NAME" x="8.763" y="39.624" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="8.763" y="39.878" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="8.763" y="40.894" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="311-75.0KHRCT-ND" x="8.763" y="40.894" size="1.778" layer="27" display="off"/>
 </element>
 <element name="TP1" library="testpad" package="P1-13" value="TPPAD1-13" x="77.544" y="51.652" smashed="yes">
 <attribute name="TP_SIGNAL_NAME" value="48V" x="76.528" y="53.2776" size="1.5" layer="37" font="vector"/>
@@ -3597,6 +3623,10 @@ design rules under a new name.</description>
 <element name="J1" library="SparkFun-Connectors" package="SCREWTERMINAL-3.5MM-2" value="M023.5MM" x="77.216" y="66.04" smashed="yes" rot="R180">
 <attribute name="NAME" x="71.374" y="68.072" size="1.016" layer="25" rot="R180"/>
 <attribute name="VALUE" x="78.486" y="64.77" size="0.4064" layer="27" rot="R180"/>
+<attribute name="MANUFACTURER" value="Phoenix Contact" x="77.216" y="66.04" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="77.216" y="66.04" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PARTNUMBER" value="277-1721-ND" x="77.216" y="66.04" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MANPARTNUMBER" value="1984617" x="77.216" y="66.04" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="S1" library="switch-dil" package="DIP03YL" value="DIP03YL" x="43.08" y="14" smashed="yes">
 <attribute name="VALUE" x="47.8552" y="10.8504" size="1.27" layer="27" ratio="10" rot="R90"/>
@@ -3618,18 +3648,26 @@ design rules under a new name.</description>
 <element name="R14" library="SparkFun-Passives" package="0603-RES" value="33k" x="37.846" y="5.08" smashed="yes">
 <attribute name="NAME" x="37.846" y="6.35" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="37.846" y="4.064" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="37.846" y="5.08" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="311-33KGRCT-ND" x="37.846" y="5.08" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R15" library="SparkFun-Passives" package="0603-RES" value="33k" x="42.418" y="5.08" smashed="yes">
 <attribute name="NAME" x="42.418" y="6.35" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="42.418" y="4.064" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="42.418" y="5.08" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNUMBER" value="311-33KGRCT-ND" x="42.418" y="5.08" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R16" library="SparkFun-Passives" package="0603-RES" value="33k" x="46.99" y="5.08" smashed="yes" rot="R180">
 <attribute name="NAME" x="46.99" y="6.35" size="0.6096" layer="25" font="vector" rot="R180" align="center"/>
 <attribute name="VALUE" x="46.99" y="6.096" size="0.6096" layer="27" font="vector" rot="R180" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="46.99" y="5.08" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PARTNUMBER" value="311-33KGRCT-ND" x="46.99" y="5.08" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="R17" library="SparkFun-Passives" package="0603-RES" value="10k" x="10.287" y="23.241" smashed="yes">
 <attribute name="NAME" x="10.287" y="21.971" size="0.6096" layer="25" font="vector" align="center"/>
 <attribute name="VALUE" x="10.287" y="22.225" size="0.6096" layer="27" font="vector" align="center"/>
+<attribute name="PARTNUMBER" value="311-10.0KHRCT-ND" x="10.287" y="23.241" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="10.287" y="23.241" size="1.778" layer="27" display="off"/>
 </element>
 <element name="J6" library="Schuyler" package="MICRO-FIT_3.0_5POS_VERT_THROUGH" value="MICRO-FIT_3.0_5POS_VERT_THRU" x="2.032" y="18.288" rot="R90">
 <attribute name="VERIFIED" value="TRUE" x="2.032" y="18.288" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3651,6 +3689,7 @@ design rules under a new name.</description>
 <attribute name="PARTNUMBER" value="311-10.0KHRCT-ND" x="19.05" y="23.241" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="19.05" y="21.971" size="0.6096" layer="25" font="vector" rot="R180" align="center"/>
 <attribute name="VALUE" x="19.05" y="24.257" size="0.6096" layer="27" font="vector" rot="R180" align="center"/>
+<attribute name="SUPPLIER" value="DIGIKEY" x="19.05" y="23.241" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="C9" library="resistor" package="C0603" value="0.1uF" x="27.432" y="50.8" smashed="yes">
 <attribute name="PARTNUMBER" value="311-1523-1-ND" x="27.432" y="50.8" size="1.778" layer="27" display="off"/>

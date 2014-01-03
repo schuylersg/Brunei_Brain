@@ -12879,8 +12879,14 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <attribute name="PARTNUMBER" value="MMBT2484LT1GOSCT-ND"/>
 <attribute name="SUPPLIER" value="DIGIKEY"/>
 </part>
-<part name="R6" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1k"/>
-<part name="R5" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1k"/>
+<part name="R6" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1k">
+<attribute name="PARTNUMBER" value="1276-5062-1-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
+<part name="R5" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1k">
+<attribute name="PARTNUMBER" value="1276-5062-1-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
 <part name="R10" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="DNP"/>
 <part name="R11" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="DNP"/>
 <part name="R12" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="DNP"/>
@@ -12915,7 +12921,10 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <attribute name="PARTNUMBER" value="311-1523-1-ND"/>
 </part>
 <part name="D1" library="Schuyler" deviceset="RF201L2S" device="RF201L2S" value="RF201L2S"/>
-<part name="U9" library="SmartPrj" deviceset="ATMEGA328P-" device="PU"/>
+<part name="U9" library="SmartPrj" deviceset="ATMEGA328P-" device="PU">
+<attribute name="PARTNUMBER" value="ATMEGA328P-PN-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
 <part name="ICSP" library="SmartPrj" deviceset="PINHD-2X3" device="" value="3x2 M"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
@@ -12926,13 +12935,19 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <attribute name="PARTNUMBER" value="P1.00MHCT-ND"/>
 <attribute name="SUPPLIER" value="DIGIKEY"/>
 </part>
-<part name="RESET" library="SmartPrj" deviceset="TS42" device="" value="TS42031-160R-TR-7260"/>
+<part name="RESET" library="SmartPrj" deviceset="TS42" device="" value="TS42031-160R-TR-7260">
+<attribute name="PARTNUMBER" value="450-1759-1-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
 <part name="Y1" library="SmartPrj" deviceset="RESONATOR" device="MU" value="CSTCE16M0V53-R0 16MHZ">
 <attribute name="PARTNUMBER" value="490-1198-1-ND"/>
 <attribute name="SUPPLIER" value="DIGIKEY"/>
 </part>
 <part name="U3" library="Schuyler" deviceset="MCP7383" device="2" value="MCP73831/2"/>
-<part name="R7" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="20k"/>
+<part name="R7" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="20k">
+<attribute name="PARTNUMBER" value="1276-4768-1-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
 <part name="C10" library="resistor" deviceset="C-US" device="C0603" value="4.7uF">
 <attribute name="PARTNUMBER" value="445-5178-1-ND"/>
 <attribute name="SUPPLIER" value="DIGIKEY"/>
@@ -12963,17 +12978,41 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <part name="GND11" library="SparkFun" deviceset="GND" device=""/>
 <part name="J4" library="Schuyler" deviceset="MICRO-FIT_3.0_7POS_" device="VERT_THRU"/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
-<part name="R22" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
+<part name="R22" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k">
+<attribute name="PARTNUMBER" value="311-10.0KHRCT-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
 <part name="GND17" library="SparkFun" deviceset="GND" device=""/>
-<part name="R19" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="600"/>
-<part name="R20" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="360"/>
-<part name="R21" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="360"/>
+<part name="R19" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="604">
+<attribute name="PARTNUMBER" value="1276-3506-1-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
+<part name="R20" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="360">
+<attribute name="PARTNUMBER" value="1276-5051-1-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
+<part name="R21" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="360">
+<attribute name="PARTNUMBER" value="1276-5051-1-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
 <part name="J2" library="Schuyler" deviceset="MICRO-FIT_3.0_2POS_" device="VERT_THRU"/>
 <part name="J3" library="Schuyler" deviceset="MICRO-FIT_3.0_2POS_" device="VERT_THRU"/>
-<part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="4.99M"/>
-<part name="R2" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="100k"/>
-<part name="R8" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="250k"/>
-<part name="R9" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="75k"/>
+<part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="5.1M">
+<attribute name="PARTNUMBER" value="541-5.10MHCT-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
+<part name="R2" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="100k">
+<attribute name="PARTNUMBER" value="1276-3486-1-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
+<part name="R8" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="249k">
+<attribute name="PARTNUMBER" value="311-249KHRCT-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
+<part name="R9" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="75k">
+<attribute name="PARTNUMBER" value="311-75.0KHRCT-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
 <part name="TP1" library="testpad" deviceset="TP" device="PAD1-13">
 <attribute name="TP_SIGNAL_NAME" value="48V"/>
 </part>
@@ -13007,14 +13046,31 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <part name="H2" library="holes" deviceset="MOUNT-HOLE" device="3.0"/>
 <part name="H3" library="holes" deviceset="MOUNT-HOLE" device="3.0"/>
 <part name="H4" library="holes" deviceset="MOUNT-HOLE" device="3.0"/>
-<part name="J1" library="SparkFun-Connectors" deviceset="M02" device="3.5MM"/>
+<part name="J1" library="SparkFun-Connectors" deviceset="M02" device="3.5MM">
+<attribute name="MANPARTNUMBER" value="1984617"/>
+<attribute name="MANUFACTURER" value="Phoenix Contact"/>
+<attribute name="PARTNUMBER" value="277-1721-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
 <part name="S1" library="switch-dil" deviceset="DIP03YL" device=""/>
 <part name="J5" library="Schuyler" deviceset="MICRO-FIT_3.0_6POS_" device="VERT_THRU"/>
-<part name="R14" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="33k"/>
-<part name="R15" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="33k"/>
-<part name="R16" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="33k"/>
+<part name="R14" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="33k">
+<attribute name="PARTNUMBER" value="311-33KGRCT-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
+<part name="R15" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="33k">
+<attribute name="PARTNUMBER" value="311-33KGRCT-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
+<part name="R16" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="33k">
+<attribute name="PARTNUMBER" value="311-33KGRCT-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
-<part name="R17" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
+<part name="R17" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k">
+<attribute name="PARTNUMBER" value="311-10.0KHRCT-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
+</part>
 <part name="J6" library="Schuyler" deviceset="MICRO-FIT_3.0_5POS" device="_VERT_THRU"/>
 <part name="U$9" library="Schuyler" deviceset="SUP_3V3" device=""/>
 <part name="U$16" library="Schuyler" deviceset="SUP_5V0" device=""/>
@@ -13024,6 +13080,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <part name="U1" library="Schuyler" deviceset="DS3234" device=""/>
 <part name="R4" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k">
 <attribute name="PARTNUMBER" value="311-10.0KHRCT-ND"/>
+<attribute name="SUPPLIER" value="DIGIKEY"/>
 </part>
 <part name="C9" library="resistor" deviceset="C-US" device="C0603" value="0.1uF">
 <attribute name="PARTNUMBER" value="311-1523-1-ND"/>
@@ -13109,8 +13166,14 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <attribute name="SUPPLIER" x="83.82" y="233.68" size="1.778" layer="96" display="off"/>
 <attribute name="PARTNUMBER" x="83.82" y="233.68" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R6" gate="G$1" x="73.66" y="198.12"/>
-<instance part="R5" gate="G$1" x="73.66" y="233.68"/>
+<instance part="R6" gate="G$1" x="73.66" y="198.12">
+<attribute name="SUPPLIER" x="73.66" y="198.12" size="1.778" layer="96" display="off"/>
+<attribute name="PARTNUMBER" x="73.66" y="198.12" size="1.778" layer="96" display="off"/>
+</instance>
+<instance part="R5" gate="G$1" x="73.66" y="233.68">
+<attribute name="SUPPLIER" x="73.66" y="233.68" size="1.778" layer="96" display="off"/>
+<attribute name="PARTNUMBER" x="73.66" y="233.68" size="1.778" layer="96" display="off"/>
+</instance>
 <instance part="R10" gate="G$1" x="134.62" y="241.3" rot="R90"/>
 <instance part="R11" gate="G$1" x="134.62" y="231.14" rot="R90"/>
 <instance part="R12" gate="G$1" x="137.16" y="205.74" rot="R90"/>
@@ -13148,7 +13211,10 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <attribute name="NAME" x="27.94" y="246.8626" size="1.778" layer="95"/>
 <attribute name="VALUE" x="27.94" y="244.0686" size="1.778" layer="96"/>
 </instance>
-<instance part="U9" gate="G$1" x="287.02" y="187.96"/>
+<instance part="U9" gate="G$1" x="287.02" y="187.96">
+<attribute name="SUPPLIER" x="287.02" y="187.96" size="1.778" layer="96" display="off"/>
+<attribute name="PARTNUMBER" x="287.02" y="187.96" size="1.778" layer="96" display="off"/>
+</instance>
 <instance part="ICSP" gate="A" x="294.64" y="233.68"/>
 <instance part="GND1" gate="1" x="307.34" y="228.6"/>
 <instance part="GND2" gate="1" x="264.16" y="172.72"/>
@@ -13163,6 +13229,8 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 </instance>
 <instance part="RESET" gate="G$1" x="261.62" y="238.76" smashed="yes" rot="R180">
 <attribute name="NAME" x="267.97" y="241.3" size="1.778" layer="95" rot="R270"/>
+<attribute name="SUPPLIER" x="261.62" y="238.76" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="PARTNUMBER" x="261.62" y="238.76" size="1.778" layer="96" rot="R180" display="off"/>
 </instance>
 <instance part="Y1" gate="G$1" x="243.84" y="205.74" smashed="yes">
 <attribute name="VALUE" x="233.68" y="198.12" size="1.778" layer="96"/>
@@ -13170,7 +13238,10 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <attribute name="SUPPLIER" x="243.84" y="205.74" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U3" gate="G$1" x="63.5" y="162.56"/>
-<instance part="R7" gate="G$1" x="83.82" y="160.02" rot="R90"/>
+<instance part="R7" gate="G$1" x="83.82" y="160.02" rot="R90">
+<attribute name="SUPPLIER" x="83.82" y="160.02" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="PARTNUMBER" x="83.82" y="160.02" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
 <instance part="C10" gate="G$1" x="91.44" y="162.56" smashed="yes">
 <attribute name="NAME" x="92.456" y="163.195" size="1.778" layer="95"/>
 <attribute name="VALUE" x="91.694" y="158.369" size="1.778" layer="96"/>
@@ -13215,19 +13286,28 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <attribute name="VALUE" x="121.92" y="29.21" size="1.27" layer="96"/>
 </instance>
 <instance part="GND16" gate="1" x="109.22" y="43.18"/>
-<instance part="R22" gate="G$1" x="292.1" y="91.44" rot="R180"/>
+<instance part="R22" gate="G$1" x="292.1" y="91.44" rot="R180">
+<attribute name="SUPPLIER" x="292.1" y="91.44" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="PARTNUMBER" x="292.1" y="91.44" size="1.778" layer="96" rot="R180" display="off"/>
+</instance>
 <instance part="GND17" gate="1" x="307.34" y="53.34"/>
 <instance part="R19" gate="G$1" x="287.02" y="137.16" smashed="yes">
 <attribute name="NAME" x="284.226" y="135.6106" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="285.75" y="133.858" size="1.778" layer="96"/>
+<attribute name="SUPPLIER" x="287.02" y="137.16" size="1.778" layer="96" display="off"/>
+<attribute name="PARTNUMBER" x="287.02" y="137.16" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R20" gate="G$1" x="287.02" y="129.54" smashed="yes">
 <attribute name="NAME" x="284.226" y="127.9906" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="285.75" y="126.238" size="1.778" layer="96"/>
+<attribute name="SUPPLIER" x="287.02" y="129.54" size="1.778" layer="96" display="off"/>
+<attribute name="PARTNUMBER" x="287.02" y="129.54" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="R21" gate="G$1" x="287.02" y="121.92" smashed="yes">
 <attribute name="NAME" x="284.226" y="120.3706" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="285.75" y="118.618" size="1.778" layer="96"/>
+<attribute name="SUPPLIER" x="287.02" y="121.92" size="1.778" layer="96" display="off"/>
+<attribute name="PARTNUMBER" x="287.02" y="121.92" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="J2" gate="G$1" x="12.7" y="223.52" smashed="yes" rot="MR0">
 <attribute name="NAME" x="11.176" y="226.822" size="1.778" layer="95" font="vector" rot="MR180" align="center"/>
@@ -13235,10 +13315,22 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <instance part="J3" gate="G$1" x="104.14" y="160.02" smashed="yes">
 <attribute name="NAME" x="105.41" y="163.83" size="1.778" layer="95" font="vector" rot="R180" align="center"/>
 </instance>
-<instance part="R1" gate="G$1" x="35.56" y="228.6" rot="R90"/>
-<instance part="R2" gate="G$1" x="35.56" y="200.66" rot="R90"/>
-<instance part="R8" gate="G$1" x="116.84" y="162.56" rot="R180"/>
-<instance part="R9" gate="G$1" x="121.92" y="154.94" rot="R90"/>
+<instance part="R1" gate="G$1" x="35.56" y="228.6" rot="R90">
+<attribute name="SUPPLIER" x="35.56" y="228.6" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="PARTNUMBER" x="35.56" y="228.6" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
+<instance part="R2" gate="G$1" x="35.56" y="200.66" rot="R90">
+<attribute name="SUPPLIER" x="35.56" y="200.66" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="PARTNUMBER" x="35.56" y="200.66" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
+<instance part="R8" gate="G$1" x="116.84" y="162.56" rot="R180">
+<attribute name="SUPPLIER" x="116.84" y="162.56" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="PARTNUMBER" x="116.84" y="162.56" size="1.778" layer="96" rot="R180" display="off"/>
+</instance>
+<instance part="R9" gate="G$1" x="121.92" y="154.94" rot="R90">
+<attribute name="SUPPLIER" x="121.92" y="154.94" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="PARTNUMBER" x="121.92" y="154.94" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
 <instance part="TP1" gate="G$1" x="58.42" y="248.92"/>
 <instance part="TP2" gate="G$1" x="27.94" y="185.42"/>
 <instance part="TP3" gate="G$1" x="91.44" y="172.72"/>
@@ -13260,16 +13352,33 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <instance part="H2" gate="G$1" x="350.52" y="124.46"/>
 <instance part="H3" gate="G$1" x="350.52" y="114.3"/>
 <instance part="H4" gate="G$1" x="350.52" y="104.14"/>
-<instance part="J1" gate="G$1" x="10.16" y="205.74"/>
+<instance part="J1" gate="G$1" x="10.16" y="205.74">
+<attribute name="MANUFACTURER" x="10.16" y="205.74" size="1.778" layer="96" display="off"/>
+<attribute name="SUPPLIER" x="10.16" y="205.74" size="1.778" layer="96" display="off"/>
+<attribute name="PARTNUMBER" x="10.16" y="205.74" size="1.778" layer="96" display="off"/>
+<attribute name="MANPARTNUMBER" x="10.16" y="205.74" size="1.778" layer="96" display="off"/>
+</instance>
 <instance part="S1" gate="1" x="203.2" y="231.14"/>
 <instance part="J5" gate="G$1" x="226.06" y="241.3" smashed="yes">
 <attribute name="NAME" x="226.06" y="248.92" size="1.778" layer="95" font="vector" align="center"/>
 </instance>
-<instance part="R14" gate="G$1" x="195.58" y="208.28" rot="R90"/>
-<instance part="R15" gate="G$1" x="203.2" y="208.28" rot="R90"/>
-<instance part="R16" gate="G$1" x="210.82" y="208.28" rot="R90"/>
+<instance part="R14" gate="G$1" x="195.58" y="208.28" rot="R90">
+<attribute name="SUPPLIER" x="195.58" y="208.28" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="PARTNUMBER" x="195.58" y="208.28" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
+<instance part="R15" gate="G$1" x="203.2" y="208.28" rot="R90">
+<attribute name="SUPPLIER" x="203.2" y="208.28" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="PARTNUMBER" x="203.2" y="208.28" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
+<instance part="R16" gate="G$1" x="210.82" y="208.28" rot="R90">
+<attribute name="SUPPLIER" x="210.82" y="208.28" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="PARTNUMBER" x="210.82" y="208.28" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
 <instance part="GND20" gate="1" x="203.2" y="195.58"/>
-<instance part="R17" gate="G$1" x="251.46" y="220.98" rot="R90"/>
+<instance part="R17" gate="G$1" x="251.46" y="220.98" rot="R90">
+<attribute name="PARTNUMBER" x="251.46" y="220.98" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="SUPPLIER" x="251.46" y="220.98" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
 <instance part="J6" gate="G$1" x="254" y="35.56"/>
 <instance part="U$9" gate="G$1" x="63.5" y="116.84"/>
 <instance part="U$16" gate="G$1" x="40.64" y="175.26"/>
@@ -13279,6 +13388,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <instance part="U1" gate="G$1" x="45.72" y="48.26"/>
 <instance part="R4" gate="G$1" x="66.04" y="63.5" rot="R90">
 <attribute name="PARTNUMBER" x="66.04" y="63.5" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="SUPPLIER" x="66.04" y="63.5" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 <instance part="C9" gate="G$1" x="78.74" y="63.5" smashed="yes">
 <attribute name="NAME" x="79.756" y="64.135" size="1.778" layer="95"/>
